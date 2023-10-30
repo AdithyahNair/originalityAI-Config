@@ -10,7 +10,7 @@
 
 1. While originalityAI's login site has mentioned a recaptcha, the POST Login request payload shows captcha as null.
 
-<img width="200" alt="Screenshot 2023-10-30 at 11 25 56" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/a24a41c0-0cbd-4eae-9c97-eee2e984a8c2"> \t <img width="200" alt="Screenshot 2023-10-30 at 11 28 25" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/ae30a087-86be-4a1d-922f-d88c1208a5b5">
+<img width="200" alt="Screenshot 2023-10-30 at 11 25 56" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/a24a41c0-0cbd-4eae-9c97-eee2e984a8c2">  <img width="600" alt="Screenshot 2023-10-30 at 11 28 25" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/ae30a087-86be-4a1d-922f-d88c1208a5b5">
 
 
 
