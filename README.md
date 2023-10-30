@@ -12,8 +12,11 @@
 
 <img width="200" alt="Screenshot 2023-10-30 at 11 25 56" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/a24a41c0-0cbd-4eae-9c97-eee2e984a8c2">  <img width="600" alt="Screenshot 2023-10-30 at 11 28 25" src="https://github.com/AdithyahNair/originalityAI-Config/assets/74417984/ae30a087-86be-4a1d-922f-d88c1208a5b5">
 
+2. The config captuers the access_token for the successive login response. After which, it is used to check if the account has a subscription or not. If yes, then we can capture the API key through the developer's tab, within the **network** section.
 
+3. This is demonstrated in the code written in the config.
 
 ## The config provided is strictly to be used for educational purposes only.
+
 
 
