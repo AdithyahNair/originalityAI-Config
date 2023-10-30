@@ -16,6 +16,8 @@
 
 3. This is demonstrated in the code written in the config.
 
+4. The config can be used on automated pentesting software like SilverBullet for performing bruteforce checks on wordlists. However, this issue can be mitigated by enabling Google's V3 Recaptcha along with strict rate limits.
+
 ## The config provided is strictly to be used for educational purposes only.
 
 
